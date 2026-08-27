@@ -110,8 +110,3 @@ Everything for me, as for many others, revolves around family and faith.
 
 - I am a native born arubian, a island in the carribeans and i am a christian.
 - My family is pretty big as I am the middle child with both an older brother thats 20 years old, a little sister thats 4 years old and my mom and dad
-- The gallery of pics has some of my culture and faith memories.
-
-<comment>
-Gallery of Pics, scroll to the right for more ...
-</div>
