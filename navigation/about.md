@@ -5,7 +5,7 @@ permalink: /about/
 comments: true
 ---
 
-## As a conversation Starter
+Hello my name is Kenny
 
 Here are some places I have lived.
 
