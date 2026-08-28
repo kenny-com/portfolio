@@ -5,7 +5,7 @@ permalink: /about/
 comments: true
 ---
 
-Hello my name is Kenny
+Hello my name is Kenny.
 
 Here are some places I have had residence.
 
