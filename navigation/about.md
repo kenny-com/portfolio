@@ -101,7 +101,7 @@ Flags are made using Wikipedia images
 
 Here is what I did at those places
 
-- 🏫 Lots of Elementary Schools in jongbroekplein, Den Haag, oranjestad '14 to 23'
+- 🏫 Lots of Elementary Schools in jonckbloetplein, Den Haag, oranjestad '14 to 23'
 - 🏫 Middle and High School in Eindhoven middle school and Del Norte '24-26'
 
 ### Culture, Family, and Fun
