@@ -7,10 +7,10 @@ comments: true
 
 Hello my name is Kenny.
 
-Here are some places I have had residence.
+Here are some places I have had permanent residence.
 
 <comment>
-Flags are made using Wikipedia images
+Flags are made using Wikipedia images.
 </comment>
 
 <style>
