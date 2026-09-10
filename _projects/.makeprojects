@@ -12,6 +12,8 @@
 # Games
 games/cs-pathway:dev
 games/gamify:dev
+games/gamify-copy:dev
+
 
 # Systems
 #systems/student-management-groups
